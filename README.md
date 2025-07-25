@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
- <img src="./assets/landing-header.jpg" alt="OnePiece Odyssey Banner" />
+ <img src="./public/img/landing-header.jpg" alt="OnePiece Odyssey Banner">
   <h1>⚓ OnePiece Odyssey</h1>
   <p>An immersive One Piece experience brought to life with modern web technologies</p>
   
