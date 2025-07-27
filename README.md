@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 Experience the Grand Line in your browser:  
 [https://ansh-gajbhiye.github.io/OnePiece-Odyssey/](https://ansh-gajbhiye.github.io/OnePiece-Odyssey/)
