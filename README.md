@@ -14,7 +14,7 @@
 
 ---
 
-## 🌟 Features Preview
+##  Features Preview
 
 | Feature               | Preview                          | Description                                  |
 |-----------------------|----------------------------------|----------------------------------------------|
@@ -31,7 +31,7 @@ Experience the Grand Line in your browser:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,gsap,vite,github" />
@@ -47,7 +47,7 @@ Experience the Grand Line in your browser:
 
 ---
 
-## 🧭 Navigation System (New Feature)
+##  Navigation System (New Feature)
 
 ```jsx
 // Pirate-themed navigation component
